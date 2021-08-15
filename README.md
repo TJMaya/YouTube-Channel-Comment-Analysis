@@ -3,4 +3,4 @@
 ## For privacy reasons, I will NOT upload the deep anaylsis portion of the project as it would reveal info that is solely meant for my client. 
 ## I will, however upload the webscrapping portion of the project via Jupyter notebook and some of the final visual insights that I created without any titles for privacy reasons.
 
-![Screenshot](YouTube Channel Analysis Visuals.png)
+![Screenshot](https://github.com/TJMaya/YouTube-Channel-Comment-Analysis/blob/main/YouTube%20Channel%20Analysis%20Visuals.png?raw=true)
